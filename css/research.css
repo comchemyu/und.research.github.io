@@ -50,14 +50,6 @@ ul.posts li {
     list-style: none;
 }
 
-.dropbtn {
-  color: darkblue;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
 .dropdown {
   position: relative;
   display: inline-block;
